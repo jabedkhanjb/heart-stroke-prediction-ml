@@ -1,2 +1,18 @@
-# heart-stroke-prediction-ml
-Machine Learning project to predict heart stroke risk using patient health indicators. Includes data cleaning, exploratory analysis (EDA), visualizing key factors (age, cholesterol, blood pressure, etc.), training models (Logistic Regression &amp; Random Forest), evaluation, and an interactive form for real-time predictions.
+# 🧠 Heart Stroke Prediction using Machine Learning
+
+This project predicts the risk of heart stroke using patient health indicators with Machine Learning.  
+It covers data cleaning, EDA, visualization, model training, evaluation, and an interactive prediction form.  
+
+---
+
+## 📊 Visualizations & Results  
+
+![](Pictures/1.png)  
+![](Pictures/2.png)  
+![](Pictures/3.png)  
+![](Pictures/4.png)  
+![](Pictures/5.png)  
+![](Pictures/6.png)  
+![](Pictures/7.png)  
+![](Pictures/8.png)  
+![](Pictures/9.png)  
